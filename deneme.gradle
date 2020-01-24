@@ -1,0 +1,7 @@
+project.ext {
+    applicationId = "com.poc.getir"
+    compileSdkVersion = 29
+    buildToolsVersion = "29.0.2"
+    minSdkVersion = 19
+    targetSdkVersion = 29
+}
